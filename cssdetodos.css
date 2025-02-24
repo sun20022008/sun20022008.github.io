@@ -12,7 +12,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: White;
+  background-color: #c97826
+;
 border: 3px solid;
   border-radius: 15px;
 text-align: center;
@@ -26,7 +27,7 @@ justify-content: center;
 li {
   float: left;
 border-right: 1px solid #a36221;
-background-color: #c97826
+background-color: #c97826;
 
 }
 
@@ -43,7 +44,7 @@ li a:hover {
 }
 
 body {
-	background-color: #cccccc;
+	background-color: White;
 	font-family: sans-serif;
 }
 
